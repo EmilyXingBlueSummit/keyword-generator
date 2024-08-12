@@ -1,0 +1,87 @@
+[
+  {
+    "str": "Binders",
+    "synonyms": [
+      "binder divider",
+      "3-ring binder"
+    ]
+  },
+  {
+    "str": "Clipboards",
+    "synonyms": [
+      "whiteboard clipboard",
+      "aluminum clipboard"
+    ]
+  },
+  {
+    "str": "Envelopes",
+    "synonyms": [
+      "catalog envelope",
+      "rigid mailer",
+      "business envelope",
+      "tax envelope",
+      "clasp envelope",
+      "cashier envelope",
+      "interoffice envelope"
+    ]
+  },
+  {
+    "str": "Filing Tools",
+    "synonyms": [
+      "classification folder",
+      "expanding file",
+      "fastener folder",
+      "file folder",
+      "hanging file folder",
+      "pocket folder",
+      "accordion file",
+      "desk file",
+      "report cover"
+    ]
+  },
+  {
+    "str": "Medical Forms",
+    "synonyms": [
+      "cms form"
+    ]
+  },
+  {
+    "str": "Stapling Tools",
+    "synonyms": [
+      "stapler",
+      "staple"
+    ]
+  },
+  {
+    "str": "Notebooks",
+    "synonyms": [
+      "journal",
+      "composition book",
+      "spiral notebook"
+    ]
+  },
+  {
+    "str": "School Supplies",
+    "synonyms": [
+      "poster board",
+      "memo pad",
+      "book cover",
+      "dry erase board",
+      "protractor",
+      "pencil pouch",
+      "sheet protector",
+      "scissors",
+      "eraser",
+      "ruler"
+    ]
+  },
+  {
+    "str": "Tape",
+    "synonyms": [
+      "packing tape",
+      "duct tape",
+      "painters tape",
+      "anti-slip tape"
+    ]
+  }
+]

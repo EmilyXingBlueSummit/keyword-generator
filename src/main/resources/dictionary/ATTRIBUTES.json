@@ -1,0 +1,596 @@
+[
+  {
+    "str": "5 tab",
+    "synonyms": [
+      "5 tab"
+    ]
+  },
+  {
+    "str": "8 tab",
+    "synonyms": [
+      "8 tab"
+    ]
+  },
+  {
+    "str": "plastic tab",
+    "synonyms": [
+      "plastic tab"
+    ]
+  },
+  {
+    "str": "colored tab",
+    "synonyms": [
+      "colored tab"
+    ]
+  },
+  {
+    "str": "insertable tab",
+    "synonyms": [
+      "insertable tab"
+    ]
+  },
+  {
+    "str": "paper tab",
+    "synonyms": [
+      "paper tab"
+    ]
+  },
+  {
+    "str": "d ring",
+    "synonyms": [
+      "d ring"
+    ]
+  },
+  {
+    "str": "o ring",
+    "synonyms": [
+      "o ring"
+    ]
+  },
+  {
+    "str": "slanted d ring",
+    "synonyms": [
+      "slanted d ring"
+    ]
+  },
+  {
+    "str": "1 compartment",
+    "synonyms": [
+      "1 compartment"
+    ]
+  },
+  {
+    "str": "2 compartment",
+    "synonyms": [
+      "2 compartment"
+    ]
+  },
+  {
+    "str": "large clip",
+    "synonyms": [
+      "large clip"
+    ]
+  },
+  {
+    "str": "small clip",
+    "synonyms": [
+      "small clip"
+    ]
+  },
+  {
+    "str": "plain",
+    "synonyms": [
+      "plain"
+    ]
+  },
+  {
+    "str": "printed \"first class\"",
+    "synonyms": [
+      "printed \"first class\""
+    ]
+  },
+  {
+    "str": "peel and seal",
+    "synonyms": [
+      "peel and seal",
+      "self seal"
+    ]
+  },
+  {
+    "str": "gummed seal",
+    "synonyms": [
+      "gummed seal"
+    ]
+  },
+  {
+    "str": "security tint",
+    "synonyms": [
+      "security tint"
+    ]
+  },
+  {
+    "str": "no tint",
+    "synonyms": [
+      "no tint"
+    ]
+  },
+  {
+    "str": "center seam",
+    "synonyms": [
+      "center seam"
+    ]
+  },
+  {
+    "str": "side seam",
+    "synonyms": [
+      "side seam"
+    ]
+  },
+  {
+    "str": "printed \"do not bend\"",
+    "synonyms": [
+      "printed \"do not bend\""
+    ]
+  },
+  {
+    "str": "double window",
+    "synonyms": [
+      "double window"
+    ]
+  },
+  {
+    "str": "single window",
+    "synonyms": [
+      "single window"
+    ]
+  },
+  {
+    "str": "right window",
+    "synonyms": [
+      "right window"
+    ]
+  },
+  {
+    "str": "windowless",
+    "synonyms": [
+      "windowless"
+    ]
+  },
+  {
+    "str": "flip and seal",
+    "synonyms": [
+      "flip and seal"
+    ]
+  },
+  {
+    "str": "diagonal seam",
+    "synonyms": [
+      "diagonal seam"
+    ]
+  },
+  {
+    "str": "1099 nec",
+    "synonyms": [
+      "1099 nec"
+    ]
+  },
+  {
+    "str": "1099 misc",
+    "synonyms": [
+      "1099 misc"
+    ]
+  },
+  {
+    "str": "1099 int",
+    "synonyms": [
+      "1099 int"
+    ]
+  },
+  {
+    "str": "w2",
+    "synonyms": [
+      "w2"
+    ]
+  },
+  {
+    "str": "clasp",
+    "synonyms": [
+      "clasp"
+    ]
+  },
+  {
+    "str": "clasp and gummed",
+    "synonyms": [
+      "clasp and gummed"
+    ]
+  },
+  {
+    "str": "printed",
+    "synonyms": [
+      "printed"
+    ]
+  },
+  {
+    "str": "string and button closure",
+    "synonyms": [
+      "string and button closure"
+    ]
+  },
+  {
+    "str": "1 divider",
+    "synonyms": [
+      "1 divider",
+      "4 part"
+    ]
+  },
+  {
+    "str": "2 divider",
+    "synonyms": [
+      "2 divider",
+      "6 part"
+    ]
+  },
+  {
+    "str": "3 divider",
+    "synonyms": [
+      "3 divider",
+      "8 part"
+    ]
+  },
+  {
+    "str": "2 inch expansion",
+    "synonyms": [
+      "2 inch expansion",
+      "2\" expansion"
+    ]
+  },
+  {
+    "str": "3.5 inch expansion",
+    "synonyms": [
+      "3.5 inch expansion",
+      "3.5\" expansion"
+    ]
+  },
+  {
+    "str": "5 inch expansion",
+    "synonyms": [
+      "5 inch expansion",
+      "5\" expansion"
+    ]
+  },
+  {
+    "str": "5.25 inch expansion",
+    "synonyms": [
+      "5.25 inch expansion",
+      "5.25\" expansion"
+    ]
+  },
+  {
+    "str": "open",
+    "synonyms": [
+      "open"
+    ]
+  },
+  {
+    "str": "flap and cord closure",
+    "synonyms": [
+      "flap and cord closure"
+    ]
+  },
+  {
+    "str": "heavy duty",
+    "synonyms": [
+      "heavy duty"
+    ]
+  },
+  {
+    "str": "1 inch expansion",
+    "synonyms": [
+      "1 inch expansion",
+      "1\" expansion"
+    ]
+  },
+  {
+    "str": "top tab",
+    "synonyms": [
+      "top tab",
+      "1/3 cut tab"
+    ]
+  },
+  {
+    "str": "end tab",
+    "synonyms": [
+      "end tab"
+    ]
+  },
+  {
+    "str": "straight cut tab",
+    "synonyms": [
+      "straight cut tab"
+    ]
+  },
+  {
+    "str": "printed \"confidential\"",
+    "synonyms": [
+      "printed \"confidential\""
+    ]
+  },
+  {
+    "str": "one tone",
+    "synonyms": [
+      "one tone"
+    ]
+  },
+  {
+    "str": "two tone",
+    "synonyms": [
+      "two tone"
+    ]
+  },
+  {
+    "str": "lined",
+    "synonyms": [
+      "lined",
+      "notes"
+    ]
+  },
+  {
+    "str": "project",
+    "synonyms": [
+      "project"
+    ]
+  },
+  {
+    "str": "blank",
+    "synonyms": [
+      "blank"
+    ]
+  },
+  {
+    "str": "reinforced",
+    "synonyms": [
+      "reinforced"
+    ]
+  },
+  {
+    "str": "3 inch expansion",
+    "synonyms": [
+      "3 inch expansion",
+      "3\" expansion"
+    ]
+  },
+  {
+    "str": "4 inch expansion",
+    "synonyms": [
+      "4 inch expansion",
+      "4\" expansion"
+    ]
+  },
+  {
+    "str": "3 hole punch",
+    "synonyms": [
+      "3 hole punch"
+    ]
+  },
+  {
+    "str": "prong",
+    "synonyms": [
+      "prong"
+    ]
+  },
+  {
+    "str": "no prong",
+    "synonyms": [
+      "no prong"
+    ]
+  },
+  {
+    "str": "reinforced corner",
+    "synonyms": [
+      "reinforced corner"
+    ]
+  },
+  {
+    "str": "31 pocket",
+    "synonyms": [
+      "31 pocket",
+      "daily"
+    ]
+  },
+  {
+    "str": "21 pocket",
+    "synonyms": [
+      "21 pocket",
+      "a-z",
+      "a to z"
+    ]
+  },
+  {
+    "str": "12 pocket",
+    "synonyms": [
+      "12 pocket",
+      "monthly"
+    ]
+  },
+  {
+    "str": "31 divider",
+    "synonyms": [
+      "31 divider",
+      "daily",
+      "daily and monthly"
+    ]
+  },
+  {
+    "str": "26 pocket",
+    "synonyms": [
+      "26 pocket",
+      "a-z",
+      "a to z"
+    ]
+  },
+  {
+    "str": "hipaa compliant",
+    "synonyms": [
+      "hipaa compliant"
+    ]
+  },
+  {
+    "str": "red ink",
+    "synonyms": [
+      "red ink"
+    ]
+  },
+  {
+    "str": "chisel point",
+    "synonyms": [
+      "chisel point"
+    ]
+  },
+  {
+    "str": "lined page",
+    "synonyms": [
+      "lined page"
+    ]
+  },
+  {
+    "str": "grid page",
+    "synonyms": [
+      "grid page"
+    ]
+  },
+  {
+    "str": "60 sheet",
+    "synonyms": [
+      "60 sheet"
+    ]
+  },
+  {
+    "str": "64 sheet",
+    "synonyms": [
+      "64 sheet"
+    ]
+  },
+  {
+    "str": "wide rule",
+    "synonyms": [
+      "wide rule"
+    ]
+  },
+  {
+    "str": "college rule",
+    "synonyms": [
+      "college rule"
+    ]
+  },
+  {
+    "str": "100 sheet",
+    "synonyms": [
+      "100 sheet"
+    ]
+  },
+  {
+    "str": "70 sheet",
+    "synonyms": [
+      "70 sheet"
+    ]
+  },
+  {
+    "str": "50 sheet",
+    "synonyms": [
+      "50 sheet"
+    ]
+  },
+  {
+    "str": "stretchable",
+    "synonyms": [
+      "stretchable"
+    ]
+  },
+  {
+    "str": "with marker and eraser",
+    "synonyms": [
+      "with marker and eraser"
+    ]
+  },
+  {
+    "str": "3 ring",
+    "synonyms": [
+      "3 ring"
+    ]
+  },
+  {
+    "str": "mini",
+    "synonyms": [
+      "mini"
+    ]
+  },
+  {
+    "str": "11 hole punch",
+    "synonyms": [
+      "11 hole punch"
+    ]
+  },
+  {
+    "str": "zipper",
+    "synonyms": [
+      "zipper"
+    ]
+  },
+  {
+    "str": "lightweight",
+    "synonyms": [
+      "lightweight"
+    ]
+  },
+  {
+    "str": "blunt tip",
+    "synonyms": [
+      "blunt tip"
+    ]
+  },
+  {
+    "str": "multi purpose",
+    "synonyms": [
+      "multi purpose"
+    ]
+  },
+  {
+    "str": "child",
+    "synonyms": [
+      "child"
+    ]
+  },
+  {
+    "str": "shatterproof",
+    "synonyms": [
+      "shatterproof"
+    ]
+  },
+  {
+    "str": "60 yard",
+    "synonyms": [
+      "60 yard"
+    ]
+  },
+  {
+    "str": "1 inch",
+    "synonyms": [
+      "1 inch",
+      "1\""
+    ]
+  },
+  {
+    "str": "2 inch",
+    "synonyms": [
+      "2 inch",
+      "2\""
+    ]
+  },
+  {
+    "str": "30 foot",
+    "synonyms": [
+      "30 foot",
+      "30\u0027"
+    ]
+  }
+]

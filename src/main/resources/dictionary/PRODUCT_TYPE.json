@@ -1,0 +1,303 @@
+[
+  {
+    "str": "binder divider",
+    "synonyms": [
+      "binder divider",
+      "divider",
+      "tab divider"
+    ]
+  },
+  {
+    "str": "3-ring binder",
+    "synonyms": [
+      "3-ring binder",
+      "ring binder",
+      "view binder"
+    ]
+  },
+  {
+    "str": "whiteboard clipboard",
+    "synonyms": [
+      "whiteboard clipboard",
+      "dry erase clipboard"
+    ]
+  },
+  {
+    "str": "aluminum clipboard",
+    "synonyms": [
+      "aluminum clipboard",
+      "metal clipboard"
+    ]
+  },
+  {
+    "str": "catalog envelope",
+    "synonyms": [
+      "catalog envelope",
+      "mailing envelope"
+    ]
+  },
+  {
+    "str": "rigid mailer",
+    "synonyms": [
+      "rigid mailer",
+      "cardboard envelope",
+      "document mailer",
+      "flat envelope",
+      "shipping envelope"
+    ]
+  },
+  {
+    "str": "business envelope",
+    "synonyms": [
+      "business envelope",
+      "mailing envelope",
+      "security envelope"
+    ]
+  },
+  {
+    "str": "tax envelope",
+    "synonyms": [
+      "tax envelope"
+    ]
+  },
+  {
+    "str": "clasp envelope",
+    "synonyms": [
+      "clasp envelope"
+    ]
+  },
+  {
+    "str": "cashier envelope",
+    "synonyms": [
+      "cashier envelope",
+      "cash drop envelope",
+      "deposit envelope",
+      "money envelope",
+      "report envelope"
+    ]
+  },
+  {
+    "str": "interoffice envelope",
+    "synonyms": [
+      "interoffice envelope",
+      "inter department envelope"
+    ]
+  },
+  {
+    "str": "classification folder",
+    "synonyms": [
+      "classification folder",
+      "medical folder"
+    ]
+  },
+  {
+    "str": "expanding file",
+    "synonyms": [
+      "expanding file",
+      "file jacket",
+      "file pocket",
+      "file wallet"
+    ]
+  },
+  {
+    "str": "fastener folder",
+    "synonyms": [
+      "fastener folder",
+      "pronged folder",
+      "fastener file folder",
+      "medical folder"
+    ]
+  },
+  {
+    "str": "file folder",
+    "synonyms": [
+      "file folder",
+      "tab folder",
+      "manila folder"
+    ]
+  },
+  {
+    "str": "hanging file folder",
+    "synonyms": [
+      "hanging file folder",
+      "file cabinet folder"
+    ]
+  },
+  {
+    "str": "pocket folder",
+    "synonyms": [
+      "pocket folder",
+      "2 pocket folder",
+      "school folder"
+    ]
+  },
+  {
+    "str": "accordion file",
+    "synonyms": [
+      "accordion file",
+      "file wallet",
+      "file organizer",
+      "file sorter"
+    ]
+  },
+  {
+    "str": "desk file",
+    "synonyms": [
+      "desk file",
+      "file sorter",
+      "file organizer"
+    ]
+  },
+  {
+    "str": "cms form",
+    "synonyms": [
+      "cms form",
+      "cms 1500",
+      "cms 1450",
+      "health insurance form",
+      "health insurance claim form",
+      "medical claim form"
+    ]
+  },
+  {
+    "str": "stapler",
+    "synonyms": [
+      "stapler"
+    ]
+  },
+  {
+    "str": "staple",
+    "synonyms": [
+      "staple"
+    ]
+  },
+  {
+    "str": "journal",
+    "synonyms": [
+      "journal",
+      "travel journal"
+    ]
+  },
+  {
+    "str": "composition book",
+    "synonyms": [
+      "composition book",
+      "composition notebook"
+    ]
+  },
+  {
+    "str": "spiral notebook",
+    "synonyms": [
+      "spiral notebook",
+      "spiral bound notebook"
+    ]
+  },
+  {
+    "str": "poster board",
+    "synonyms": [
+      "poster board",
+      "poster paper",
+      "railroad board"
+    ]
+  },
+  {
+    "str": "memo pad",
+    "synonyms": [
+      "memo pad",
+      "notepad"
+    ]
+  },
+  {
+    "str": "book cover",
+    "synonyms": [
+      "book cover",
+      "book sleeve"
+    ]
+  },
+  {
+    "str": "dry erase board",
+    "synonyms": [
+      "dry erase board",
+      "lapboard"
+    ]
+  },
+  {
+    "str": "protractor",
+    "synonyms": [
+      "protractor"
+    ]
+  },
+  {
+    "str": "pencil pouch",
+    "synonyms": [
+      "pencil pouch",
+      "binder pouch"
+    ]
+  },
+  {
+    "str": "sheet protector",
+    "synonyms": [
+      "sheet protector",
+      "page protector",
+      "plastic sleeve"
+    ]
+  },
+  {
+    "str": "scissors",
+    "synonyms": [
+      "scissors"
+    ]
+  },
+  {
+    "str": "eraser",
+    "synonyms": [
+      "eraser",
+      "pink eraser",
+      "school eraser"
+    ]
+  },
+  {
+    "str": "ruler",
+    "synonyms": [
+      "ruler"
+    ]
+  },
+  {
+    "str": "packing tape",
+    "synonyms": [
+      "packing tape",
+      "packaging tape"
+    ]
+  },
+  {
+    "str": "duct tape",
+    "synonyms": [
+      "duct tape"
+    ]
+  },
+  {
+    "str": "painters tape",
+    "synonyms": [
+      "painters tape",
+      "blue tape",
+      "masking tape"
+    ]
+  },
+  {
+    "str": "anti-slip tape",
+    "synonyms": [
+      "anti-slip tape",
+      "traction tape",
+      "non skid tread",
+      "non skid tape",
+      "grip tape",
+      "tread tape"
+    ]
+  },
+  {
+    "str": "report cover",
+    "synonyms": [
+      "report cover"
+    ]
+  }
+]

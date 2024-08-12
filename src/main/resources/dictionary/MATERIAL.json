@@ -1,0 +1,76 @@
+[
+  {
+    "str": "paper",
+    "synonyms": [
+      "paper"
+    ]
+  },
+  {
+    "str": "plastic",
+    "synonyms": [
+      "plastic",
+      "poly",
+      "vinyl"
+    ]
+  },
+  {
+    "str": "flexible cover",
+    "synonyms": [
+      "flexible cover",
+      "soft cover"
+    ]
+  },
+  {
+    "str": "hard cover",
+    "synonyms": [
+      "hard cover"
+    ]
+  },
+  {
+    "str": "aluminum",
+    "synonyms": [
+      "aluminum"
+    ]
+  },
+  {
+    "str": "cardboard",
+    "synonyms": [
+      "cardboard",
+      "fiberboard"
+    ]
+  },
+  {
+    "str": "pressboard",
+    "synonyms": [
+      "pressboard",
+      "paper"
+    ]
+  },
+  {
+    "str": "redrope",
+    "synonyms": [
+      "redrope"
+    ]
+  },
+  {
+    "str": "metal",
+    "synonyms": [
+      "metal",
+      "aluminum",
+      "titanium"
+    ]
+  },
+  {
+    "str": "fabric",
+    "synonyms": [
+      "fabric",
+      "cloth"
+    ]
+  },
+  {
+    "str": "titanium",
+    "synonyms": [
+      "titanium"
+    ]
+  }
+]

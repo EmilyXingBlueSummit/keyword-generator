@@ -1,0 +1,195 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/EmilyXing/.m2/repository/org/apache/poi/poi-ooxml/5.2.5/poi-ooxml-5.2.5.jar;C:/Users/EmilyXing/.m2/repository/org/apache/poi/poi/5.2.5/poi-5.2.5.jar;C:/Users/EmilyXing/.m2/repository/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar;C:/Users/EmilyXing/.m2/repository/com/zaxxer/SparseBitSet/1.3/SparseBitSet-1.3.jar;C:/Users/EmilyXing/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.5/poi-ooxml-lite-5.2.5.jar;C:/Users/EmilyXing/.m2/repository/org/apache/xmlbeans/xmlbeans/5.2.0/xmlbeans-5.2.0.jar;C:/Users/EmilyXing/.m2/repository/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.jar;C:/Users/EmilyXing/.m2/repository/commons-io/commons-io/2.15.0/commons-io-2.15.0.jar;C:/Users/EmilyXing/.m2/repository/com/github/virtuald/curvesapi/1.08/curvesapi-1.08.jar;C:/Users/EmilyXing/.m2/repository/org/apache/logging/log4j/log4j-api/2.21.1/log4j-api-2.21.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar;C:/Users/EmilyXing/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/opennlp/opennlp-tools/1.9.3/opennlp-tools-1.9.3.jar;C:/Users/EmilyXing/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar;C:/Users/EmilyXing/.m2/repository/edu/stanford/nlp/stanford-corenlp/4.4.0/stanford-corenlp-4.4.0.jar;C:/Users/EmilyXing/.m2/repository/com/apple/AppleJavaExtensions/1.4/AppleJavaExtensions-1.4.jar;C:/Users/EmilyXing/.m2/repository/de/jollyday/jollyday/0.4.9/jollyday-0.4.9.jar;C:/Users/EmilyXing/.m2/repository/org/apache/lucene/lucene-queryparser/7.5.0/lucene-queryparser-7.5.0.jar;C:/Users/EmilyXing/.m2/repository/org/apache/lucene/lucene-queries/7.5.0/lucene-queries-7.5.0.jar;C:/Users/EmilyXing/.m2/repository/org/apache/lucene/lucene-sandbox/7.5.0/lucene-sandbox-7.5.0.jar;C:/Users/EmilyXing/.m2/repository/org/apache/lucene/lucene-analyzers-common/7.5.0/lucene-analyzers-common-7.5.0.jar;C:/Users/EmilyXing/.m2/repository/org/apache/lucene/lucene-core/7.5.0/lucene-core-7.5.0.jar;C:/Users/EmilyXing/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar;C:/Users/EmilyXing/.m2/repository/xom/xom/1.3.7/xom-1.3.7.jar;C:/Users/EmilyXing/.m2/repository/xerces/xercesImpl/2.8.0/xercesImpl-2.8.0.jar;C:/Users/EmilyXing/.m2/repository/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar;C:/Users/EmilyXing/.m2/repository/xalan/xalan/2.7.2/xalan-2.7.2.jar;C:/Users/EmilyXing/.m2/repository/xalan/serializer/2.7.2/serializer-2.7.2.jar;C:/Users/EmilyXing/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar;C:/Users/EmilyXing/.m2/repository/org/ejml/ejml-core/0.39/ejml-core-0.39.jar;C:/Users/EmilyXing/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar;C:/Users/EmilyXing/.m2/repository/org/ejml/ejml-ddense/0.39/ejml-ddense-0.39.jar;C:/Users/EmilyXing/.m2/repository/org/ejml/ejml-simple/0.39/ejml-simple-0.39.jar;C:/Users/EmilyXing/.m2/repository/org/ejml/ejml-fdense/0.39/ejml-fdense-0.39.jar;C:/Users/EmilyXing/.m2/repository/org/ejml/ejml-cdense/0.39/ejml-cdense-0.39.jar;C:/Users/EmilyXing/.m2/repository/org/ejml/ejml-zdense/0.39/ejml-zdense-0.39.jar;C:/Users/EmilyXing/.m2/repository/org/ejml/ejml-dsparse/0.39/ejml-dsparse-0.39.jar;C:/Users/EmilyXing/.m2/repository/org/ejml/ejml-fsparse/0.39/ejml-fsparse-0.39.jar;C:/Users/EmilyXing/.m2/repository/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar;C:/Users/EmilyXing/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar;C:/Users/EmilyXing/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar;C:/Users/EmilyXing/.m2/repository/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar;C:/Users/EmilyXing/.m2/repository/com/sun/xml/bind/jaxb-core/2.3.0.1/jaxb-core-2.3.0.1.jar;C:/Users/EmilyXing/.m2/repository/com/sun/xml/bind/jaxb-impl/2.4.0-b180830.0438/jaxb-impl-2.4.0-b180830.0438.jar;C:/Users/EmilyXing/.m2/repository/edu/stanford/nlp/stanford-corenlp/4.4.0/stanford-corenlp-4.4.0-models.jar;C:/Users/EmilyXing/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar;C:/Users/EmilyXing/.m2/repository/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5.jar;C:/Users/EmilyXing/.m2/repository/uk/ac/gate/gate-core/8.5/gate-core-8.5.jar;C:/Users/EmilyXing/.m2/repository/uk/ac/gate/gate-asm/6.1.1/gate-asm-6.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-impl/1.1.1/maven-resolver-impl-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-api/1.1.1/maven-resolver-api-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-spi/1.1.1/maven-resolver-spi-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-util/1.1.1/maven-resolver-util-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/maven-model-builder/3.5.3/maven-model-builder-3.5.3.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/maven-model/3.5.3/maven-model-3.5.3.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/maven-builder-support/3.5.3/maven-builder-support-3.5.3.jar;C:/Users/EmilyXing/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/maven-resolver-provider/3.5.3/maven-resolver-provider-3.5.3.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/maven-repository-metadata/3.5.3/maven-repository-metadata-3.5.3.jar;C:/Users/EmilyXing/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-connector-basic/1.1.1/maven-resolver-connector-basic-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-transport-http/1.1.1/maven-resolver-transport-http-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar;C:/Users/EmilyXing/.m2/repository/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-transport-file/1.1.1/maven-resolver-transport-file-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-transport-wagon/1.1.1/maven-resolver-transport-wagon-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.0.0/wagon-provider-api-3.0.0.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/resolver/maven-resolver-transport-classpath/1.1.1/maven-resolver-transport-classpath-1.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/maven-settings-builder/3.5.3/maven-settings-builder-3.5.3.jar;C:/Users/EmilyXing/.m2/repository/org/apache/maven/maven-settings/3.5.3/maven-settings-3.5.3.jar;C:/Users/EmilyXing/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar;C:/Users/EmilyXing/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar;C:/Users/EmilyXing/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/EmilyXing/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar;C:/Users/EmilyXing/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar;C:/Users/EmilyXing/.m2/repository/org/jdom/jdom/1.1.3/jdom-1.1.3.jar;C:/Users/EmilyXing/.m2/repository/net/sourceforge/nekohtml/nekohtml/1.9.14/nekohtml-1.9.14.jar;C:/Users/EmilyXing/.m2/repository/org/apache/tika/tika-parsers/1.7/tika-parsers-1.7.jar;C:/Users/EmilyXing/.m2/repository/org/apache/tika/tika-core/1.7/tika-core-1.7.jar;C:/Users/EmilyXing/.m2/repository/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar;C:/Users/EmilyXing/.m2/repository/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2.jar;C:/Users/EmilyXing/.m2/repository/org/apache/pdfbox/pdfbox/1.8.8/pdfbox-1.8.8.jar;C:/Users/EmilyXing/.m2/repository/org/apache/pdfbox/fontbox/1.8.8/fontbox-1.8.8.jar;C:/Users/EmilyXing/.m2/repository/org/apache/pdfbox/jempbox/1.8.8/jempbox-1.8.8.jar;C:/Users/EmilyXing/.m2/repository/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45.jar;C:/Users/EmilyXing/.m2/repository/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45.jar;C:/Users/EmilyXing/.m2/repository/org/apache/poi/poi-scratchpad/3.11/poi-scratchpad-3.11.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/woodstox/woodstox-core-lgpl/4.2.0/woodstox-core-lgpl-4.2.0.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/woodstox/stax2-api/3.1.1/stax2-api-3.1.1.jar;C:/Users/EmilyXing/.m2/repository/org/apache/ant/ant/1.9.3/ant-1.9.3.jar;C:/Users/EmilyXing/.m2/repository/org/apache/ant/ant-launcher/1.9.3/ant-launcher-1.9.3.jar;C:/Users/EmilyXing/.m2/repository/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar;C:/Users/EmilyXing/.m2/repository/gnu/getopt/java-getopt/1.0.13/java-getopt-1.0.13.jar;C:/Users/EmilyXing/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.jar;C:/Users/EmilyXing/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar;C:/Users/EmilyXing/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.jar;C:/Users/EmilyXing/.m2/repository/org/xhtmlrenderer/flying-saucer-core/9.0.4/flying-saucer-core-9.0.4.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/httpcache4j/httpcache4j-core/5.1.0/httpcache4j-core-5.1.0.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/httpcache4j/httpcache4j-storage-api/5.1.0/httpcache4j-storage-api-5.1.0.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/httpcache4j/httpcache4j-api/5.1.0/httpcache4j-api-5.1.0.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/httpcache4j/uribuilder/uribuilder/2.0.0/uribuilder-2.0.0.jar;C:/Users/EmilyXing/.m2/repository/org/codehaus/httpcache4j/storage/storage-file/5.1.0/storage-file-5.1.0.jar;C:/Users/EmilyXing/.m2/repository/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.jar;C:/Users/EmilyXing/.m2/repository/com/opencsv/opencsv/5.9/opencsv-5.9.jar;C:/Users/EmilyXing/.m2/repository/org/apache/commons/commons-text/1.11.0/commons-text-1.11.0.jar;C:/Users/EmilyXing/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar;C:/Users/EmilyXing/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar;C:/Users/EmilyXing/.m2/repository/org/apache/commons/commons-lang3/3.15.0/commons-lang3-3.15.0.jar;C:/Users/EmilyXing/.m2/repository/com/toedter/jcalendar/1.4/jcalendar-1.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'keywordgenerator 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'keywordgenerator 1.0-SNAPSHOT API'
+bss.Data
+bss.GUI
+bss.KeywordGeneration
+bss.Keywords
+bss
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Data/DataAccess.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Data/FileUpload.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/AdvancedSettingsFrame.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/DictionaryTab.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/FileUploadFrame.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/JPanelHelper.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/KeywordListPanel.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/ListInfoTab.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/MainPanel.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/PanelTemplate.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/ProductListTab.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/ProductSelectPanel.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/SettingsPanel.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/TokenSearchTab.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/GUI/UnclassifiedTokensTab.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/KeywordGeneration/CosineSimilarity.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/KeywordGeneration/KeywordGenerator.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/Categories.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/Entry.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/EntryList.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/Keyword.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/KeywordDictionary.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/KeywordMatch.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/Product.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/SearchTerm.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Keywords/Tokenizer.java'
+'C:/Users/EmilyXing/Documents/KeywordGenerator/KeywordGenerator/keywordgenerator/src/main/java/bss/Main.java'
+C:\Users\EmilyXing\.m2\repository\org\apache\poi\poi-ooxml\5.2.5\poi-ooxml-5.2.5.jar = 1719338724826
+C:\Users\EmilyXing\.m2\repository\org\apache\poi\poi\5.2.5\poi-5.2.5.jar = 1719338725171
+C:\Users\EmilyXing\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar = 1719338724541
+C:\Users\EmilyXing\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar = 1719338724479
+C:\Users\EmilyXing\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.5\poi-ooxml-lite-5.2.5.jar = 1719338725647
+C:\Users\EmilyXing\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.0\xmlbeans-5.2.0.jar = 1719338724774
+C:\Users\EmilyXing\.m2\repository\org\apache\commons\commons-compress\1.25.0\commons-compress-1.25.0.jar = 1719338724827
+C:\Users\EmilyXing\.m2\repository\commons-io\commons-io\2.15.0\commons-io-2.15.0.jar = 1719338724858
+C:\Users\EmilyXing\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar = 1719338724874
+C:\Users\EmilyXing\.m2\repository\org\apache\logging\log4j\log4j-api\2.21.1\log4j-api-2.21.1.jar = 1719338724897
+C:\Users\EmilyXing\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar = 1719338724953
+C:\Users\EmilyXing\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar = 1719338724928
+C:\Users\EmilyXing\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1719338724978
+C:\Users\EmilyXing\.m2\repository\org\apache\opennlp\opennlp-tools\1.9.3\opennlp-tools-1.9.3.jar = 1719338725232
+C:\Users\EmilyXing\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar = 1719338725256
+C:\Users\EmilyXing\.m2\repository\edu\stanford\nlp\stanford-corenlp\4.4.0\stanford-corenlp-4.4.0.jar = 1719338726299
+C:\Users\EmilyXing\.m2\repository\com\apple\AppleJavaExtensions\1.4\AppleJavaExtensions-1.4.jar = 1719338725218
+C:\Users\EmilyXing\.m2\repository\de\jollyday\jollyday\0.4.9\jollyday-0.4.9.jar = 1719338725288
+C:\Users\EmilyXing\.m2\repository\org\apache\lucene\lucene-queryparser\7.5.0\lucene-queryparser-7.5.0.jar = 1719338725330
+C:\Users\EmilyXing\.m2\repository\org\apache\lucene\lucene-queries\7.5.0\lucene-queries-7.5.0.jar = 1719338725362
+C:\Users\EmilyXing\.m2\repository\org\apache\lucene\lucene-sandbox\7.5.0\lucene-sandbox-7.5.0.jar = 1719338725403
+C:\Users\EmilyXing\.m2\repository\org\apache\lucene\lucene-analyzers-common\7.5.0\lucene-analyzers-common-7.5.0.jar = 1719338725700
+C:\Users\EmilyXing\.m2\repository\org\apache\lucene\lucene-core\7.5.0\lucene-core-7.5.0.jar = 1719338725862
+C:\Users\EmilyXing\.m2\repository\javax\servlet\javax.servlet-api\3.0.1\javax.servlet-api-3.0.1.jar = 1719338725449
+C:\Users\EmilyXing\.m2\repository\xom\xom\1.3.7\xom-1.3.7.jar = 1719338725532
+C:\Users\EmilyXing\.m2\repository\xerces\xercesImpl\2.8.0\xercesImpl-2.8.0.jar = 1719338725719
+C:\Users\EmilyXing\.m2\repository\xml-apis\xml-apis\1.3.03\xml-apis-1.3.03.jar = 1719338725733
+C:\Users\EmilyXing\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar = 1719338726422
+C:\Users\EmilyXing\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar = 1719338725837
+C:\Users\EmilyXing\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar = 1719338725895
+C:\Users\EmilyXing\.m2\repository\org\ejml\ejml-core\0.39\ejml-core-0.39.jar = 1719338725894
+C:\Users\EmilyXing\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar = 1719338725912
+C:\Users\EmilyXing\.m2\repository\org\ejml\ejml-ddense\0.39\ejml-ddense-0.39.jar = 1719338725966
+C:\Users\EmilyXing\.m2\repository\org\ejml\ejml-simple\0.39\ejml-simple-0.39.jar = 1719338725936
+C:\Users\EmilyXing\.m2\repository\org\ejml\ejml-fdense\0.39\ejml-fdense-0.39.jar = 1719338726011
+C:\Users\EmilyXing\.m2\repository\org\ejml\ejml-cdense\0.39\ejml-cdense-0.39.jar = 1719338725975
+C:\Users\EmilyXing\.m2\repository\org\ejml\ejml-zdense\0.39\ejml-zdense-0.39.jar = 1719338726020
+C:\Users\EmilyXing\.m2\repository\org\ejml\ejml-dsparse\0.39\ejml-dsparse-0.39.jar = 1719338726019
+C:\Users\EmilyXing\.m2\repository\org\ejml\ejml-fsparse\0.39\ejml-fsparse-0.39.jar = 1719338726044
+C:\Users\EmilyXing\.m2\repository\org\glassfish\javax.json\1.0.4\javax.json-1.0.4.jar = 1719338726062
+C:\Users\EmilyXing\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1719338726343
+C:\Users\EmilyXing\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar = 1719338726107
+C:\Users\EmilyXing\.m2\repository\javax\xml\bind\jaxb-api\2.4.0-b180830.0359\jaxb-api-2.4.0-b180830.0359.jar = 1719338726113
+C:\Users\EmilyXing\.m2\repository\com\sun\xml\bind\jaxb-core\2.3.0.1\jaxb-core-2.3.0.1.jar = 1719338726171
+C:\Users\EmilyXing\.m2\repository\com\sun\xml\bind\jaxb-impl\2.4.0-b180830.0438\jaxb-impl-2.4.0-b180830.0438.jar = 1719338726325
+C:\Users\EmilyXing\.m2\repository\edu\stanford\nlp\stanford-corenlp\4.4.0\stanford-corenlp-4.4.0-models.jar = 1719338829130
+C:\Users\EmilyXing\.m2\repository\org\slf4j\slf4j-api\1.7.5\slf4j-api-1.7.5.jar = 1722440891546
+C:\Users\EmilyXing\.m2\repository\org\slf4j\slf4j-simple\1.7.5\slf4j-simple-1.7.5.jar = 1722440891561
+C:\Users\EmilyXing\.m2\repository\uk\ac\gate\gate-core\8.5\gate-core-8.5.jar = 1722443332594
+C:\Users\EmilyXing\.m2\repository\uk\ac\gate\gate-asm\6.1.1\gate-asm-6.1.1.jar = 1722443332642
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-impl\1.1.1\maven-resolver-impl-1.1.1.jar = 1722443332650
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-api\1.1.1\maven-resolver-api-1.1.1.jar = 1722443332630
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-spi\1.1.1\maven-resolver-spi-1.1.1.jar = 1722443332628
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-util\1.1.1\maven-resolver-util-1.1.1.jar = 1722443332678
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\maven-model-builder\3.5.3\maven-model-builder-3.5.3.jar = 1722443332666
+C:\Users\EmilyXing\.m2\repository\org\codehaus\plexus\plexus-utils\3.1.0\plexus-utils-3.1.0.jar = 1719338837350
+C:\Users\EmilyXing\.m2\repository\org\codehaus\plexus\plexus-interpolation\1.24\plexus-interpolation-1.24.jar = 1722443332671
+C:\Users\EmilyXing\.m2\repository\org\codehaus\plexus\plexus-component-annotations\1.7.1\plexus-component-annotations-1.7.1.jar = 1719338723217
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\maven-model\3.5.3\maven-model-3.5.3.jar = 1722443332694
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar = 1722443332681
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\maven-builder-support\3.5.3\maven-builder-support-3.5.3.jar = 1722443332690
+C:\Users\EmilyXing\.m2\repository\com\google\guava\guava\20.0\guava-20.0.jar = 1722443333207
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\maven-resolver-provider\3.5.3\maven-resolver-provider-3.5.3.jar = 1722443332717
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\maven-repository-metadata\3.5.3\maven-repository-metadata-3.5.3.jar = 1722443332701
+C:\Users\EmilyXing\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar = 1719338778350
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-connector-basic\1.1.1\maven-resolver-connector-basic-1.1.1.jar = 1722443332711
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-transport-http\1.1.1\maven-resolver-transport-http-1.1.1.jar = 1722443332715
+C:\Users\EmilyXing\.m2\repository\org\apache\httpcomponents\httpclient\4.5.4\httpclient-4.5.4.jar = 1722443332850
+C:\Users\EmilyXing\.m2\repository\org\apache\httpcomponents\httpcore\4.4.8\httpcore-4.4.8.jar = 1722443332765
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-transport-file\1.1.1\maven-resolver-transport-file-1.1.1.jar = 1722443332746
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-transport-wagon\1.1.1\maven-resolver-transport-wagon-1.1.1.jar = 1722443332756
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\wagon\wagon-provider-api\3.0.0\wagon-provider-api-3.0.0.jar = 1722443332800
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\resolver\maven-resolver-transport-classpath\1.1.1\maven-resolver-transport-classpath-1.1.1.jar = 1722443332801
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\maven-settings-builder\3.5.3\maven-settings-builder-3.5.3.jar = 1722443332788
+C:\Users\EmilyXing\.m2\repository\org\apache\maven\maven-settings\3.5.3\maven-settings-3.5.3.jar = 1722443332810
+C:\Users\EmilyXing\.m2\repository\org\sonatype\plexus\plexus-sec-dispatcher\1.4\plexus-sec-dispatcher-1.4.jar = 1722443332831
+C:\Users\EmilyXing\.m2\repository\org\sonatype\plexus\plexus-cipher\1.4\plexus-cipher-1.4.jar = 1719338723239
+C:\Users\EmilyXing\.m2\repository\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar = 1722443332846
+C:\Users\EmilyXing\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar = 1722443332847
+C:\Users\EmilyXing\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar = 1722443332965
+C:\Users\EmilyXing\.m2\repository\org\jdom\jdom\1.1.3\jdom-1.1.3.jar = 1722443332884
+C:\Users\EmilyXing\.m2\repository\net\sourceforge\nekohtml\nekohtml\1.9.14\nekohtml-1.9.14.jar = 1722443332935
+C:\Users\EmilyXing\.m2\repository\org\apache\tika\tika-parsers\1.7\tika-parsers-1.7.jar = 1722443332980
+C:\Users\EmilyXing\.m2\repository\org\apache\tika\tika-core\1.7\tika-core-1.7.jar = 1722443332963
+C:\Users\EmilyXing\.m2\repository\org\apache\james\apache-mime4j-core\0.7.2\apache-mime4j-core-0.7.2.jar = 1722443333007
+C:\Users\EmilyXing\.m2\repository\org\apache\james\apache-mime4j-dom\0.7.2\apache-mime4j-dom-0.7.2.jar = 1722443333014
+C:\Users\EmilyXing\.m2\repository\org\apache\pdfbox\pdfbox\1.8.8\pdfbox-1.8.8.jar = 1722443333436
+C:\Users\EmilyXing\.m2\repository\org\apache\pdfbox\fontbox\1.8.8\fontbox-1.8.8.jar = 1722443333032
+C:\Users\EmilyXing\.m2\repository\org\apache\pdfbox\jempbox\1.8.8\jempbox-1.8.8.jar = 1722443333120
+C:\Users\EmilyXing\.m2\repository\org\bouncycastle\bcmail-jdk15\1.45\bcmail-jdk15-1.45.jar = 1722443333129
+C:\Users\EmilyXing\.m2\repository\org\bouncycastle\bcprov-jdk15\1.45\bcprov-jdk15-1.45.jar = 1722443333433
+C:\Users\EmilyXing\.m2\repository\org\apache\poi\poi-scratchpad\3.11\poi-scratchpad-3.11.jar = 1722443333774
+C:\Users\EmilyXing\.m2\repository\org\codehaus\woodstox\woodstox-core-lgpl\4.2.0\woodstox-core-lgpl-4.2.0.jar = 1722443333295
+C:\Users\EmilyXing\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.1\stax2-api-3.1.1.jar = 1722443333271
+C:\Users\EmilyXing\.m2\repository\org\apache\ant\ant\1.9.3\ant-1.9.3.jar = 1722443333672
+C:\Users\EmilyXing\.m2\repository\org\apache\ant\ant-launcher\1.9.3\ant-launcher-1.9.3.jar = 1722443333326
+C:\Users\EmilyXing\.m2\repository\com\thoughtworks\xstream\xstream\1.4.7\xstream-1.4.7.jar = 1722443333466
+C:\Users\EmilyXing\.m2\repository\gnu\getopt\java-getopt\1.0.13\java-getopt-1.0.13.jar = 1722443333501
+C:\Users\EmilyXing\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.8.7\jackson-databind-2.8.7.jar = 1722443333597
+C:\Users\EmilyXing\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.8.0\jackson-annotations-2.8.0.jar = 1722443333537
+C:\Users\EmilyXing\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.8.7\jackson-core-2.8.7.jar = 1722443333583
+C:\Users\EmilyXing\.m2\repository\org\xhtmlrenderer\flying-saucer-core\9.0.4\flying-saucer-core-9.0.4.jar = 1722443333721
+C:\Users\EmilyXing\.m2\repository\org\codehaus\httpcache4j\httpcache4j-core\5.1.0\httpcache4j-core-5.1.0.jar = 1722443333626
+C:\Users\EmilyXing\.m2\repository\org\codehaus\httpcache4j\httpcache4j-storage-api\5.1.0\httpcache4j-storage-api-5.1.0.jar = 1722443333715
+C:\Users\EmilyXing\.m2\repository\org\codehaus\httpcache4j\httpcache4j-api\5.1.0\httpcache4j-api-5.1.0.jar = 1722443333716
+C:\Users\EmilyXing\.m2\repository\org\codehaus\httpcache4j\uribuilder\uribuilder\2.0.0\uribuilder-2.0.0.jar = 1722443333707
+C:\Users\EmilyXing\.m2\repository\org\codehaus\httpcache4j\storage\storage-file\5.1.0\storage-file-5.1.0.jar = 1722443333747
+C:\Users\EmilyXing\.m2\repository\com\sun\activation\javax.activation\1.2.0\javax.activation-1.2.0.jar = 1722443333738
+C:\Users\EmilyXing\.m2\repository\com\opencsv\opencsv\5.9\opencsv-5.9.jar = 1722886996733
+C:\Users\EmilyXing\.m2\repository\org\apache\commons\commons-text\1.11.0\commons-text-1.11.0.jar = 1722886996823
+C:\Users\EmilyXing\.m2\repository\commons-beanutils\commons-beanutils\1.9.4\commons-beanutils-1.9.4.jar = 1722886996826
+C:\Users\EmilyXing\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar = 1722886996961
+C:\Users\EmilyXing\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar = 1722887375531
+C:\Users\EmilyXing\.m2\repository\com\toedter\jcalendar\1.4\jcalendar-1.4.jar = 1722972782289
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\src\main\java = 1719338637503
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\allclasses-index.html = 1723486195432
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\allpackages-index.html = 1723486195436
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\element-list = 1723486195205
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\help-doc.html = 1723486195479
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\index-all.html = 1723486195465
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\index.html = 1723486195377
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\jquery-ui.overrides.css = 1723486195482
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\member-search-index.js = 1723486195442
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\module-search-index.js = 1723486195437
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\overview-summary.html = 1723486195469
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\overview-tree.html = 1723486195361
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\package-search-index.js = 1723486195439
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\script.js = 1723486195481
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\search.js = 1723486195482
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\serialized-form.html = 1723486195264
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\stylesheet.css = 1723486195480
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\tag-search-index.js = 1723486195442
+C:\Users\EmilyXing\Documents\KeywordGenerator\KeywordGenerator\keywordgenerator\target\site\apidocs\type-search-index.js = 1723486195440

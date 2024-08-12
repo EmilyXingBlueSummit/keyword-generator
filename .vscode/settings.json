@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.configuration.runtimes": [
+
+    ],
+    "jdk.jdkhome": "",
+    "java.jdt.ls.java.home": "",
+    "java.compile.nullAnalysis.mode": "automatic"
+}

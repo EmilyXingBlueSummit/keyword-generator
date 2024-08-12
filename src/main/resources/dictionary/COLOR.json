@@ -1,0 +1,194 @@
+[
+  {
+    "str": "manila",
+    "synonyms": [
+      "manila"
+    ]
+  },
+  {
+    "str": "white",
+    "synonyms": [
+      "white"
+    ]
+  },
+  {
+    "str": "black",
+    "synonyms": [
+      "black",
+      "marble black"
+    ]
+  },
+  {
+    "str": "assorted pastel color",
+    "synonyms": [
+      "assorted pastel color",
+      "pink",
+      "blue",
+      "purple",
+      "white"
+    ]
+  },
+  {
+    "str": "assorted cool color",
+    "synonyms": [
+      "assorted cool color",
+      "blue",
+      "purple",
+      "green"
+    ]
+  },
+  {
+    "str": "kraft",
+    "synonyms": [
+      "kraft",
+      "brown"
+    ]
+  },
+  {
+    "str": "gray",
+    "synonyms": [
+      "gray",
+      "silver"
+    ]
+  },
+  {
+    "str": "yellow",
+    "synonyms": [
+      "yellow"
+    ]
+  },
+  {
+    "str": "green",
+    "synonyms": [
+      "green",
+      "teal"
+    ]
+  },
+  {
+    "str": "blue",
+    "synonyms": [
+      "blue",
+      "dark blue",
+      "light blue",
+      "teal",
+      "navy"
+    ]
+  },
+  {
+    "str": "red",
+    "synonyms": [
+      "red"
+    ]
+  },
+  {
+    "str": "assorted color",
+    "synonyms": [
+      "assorted color",
+      "green",
+      "blue",
+      "red",
+      "orange",
+      "yellow",
+      "purple"
+    ]
+  },
+  {
+    "str": "orange",
+    "synonyms": [
+      "orange"
+    ]
+  },
+  {
+    "str": "pink",
+    "synonyms": [
+      "pink"
+    ]
+  },
+  {
+    "str": "purple",
+    "synonyms": [
+      "purple"
+    ]
+  },
+  {
+    "str": "assorted warm color",
+    "synonyms": [
+      "assorted warm color",
+      "yellow",
+      "red",
+      "orange"
+    ]
+  },
+  {
+    "str": "grayscale",
+    "synonyms": [
+      "grayscale",
+      "white",
+      "gray",
+      "black"
+    ]
+  },
+  {
+    "str": "assorted bold color",
+    "synonyms": [
+      "assorted bold color",
+      "red",
+      "blue",
+      "black"
+    ]
+  },
+  {
+    "str": "brown",
+    "synonyms": [
+      "brown"
+    ]
+  },
+  {
+    "str": "teal",
+    "synonyms": [
+      "teal"
+    ]
+  },
+  {
+    "str": "navy",
+    "synonyms": [
+      "navy"
+    ]
+  },
+  {
+    "str": "tan",
+    "synonyms": [
+      "tan"
+    ]
+  },
+  {
+    "str": "neon color",
+    "synonyms": [
+      "neon color"
+    ]
+  },
+  {
+    "str": "rainbow color",
+    "synonyms": [
+      "rainbow color"
+    ]
+  },
+  {
+    "str": "clear",
+    "synonyms": [
+      "clear"
+    ]
+  },
+  {
+    "str": "silver",
+    "synonyms": [
+      "silver"
+    ]
+  },
+  {
+    "str": "striped",
+    "synonyms": [
+      "striped"
+    ]
+  }
+]
